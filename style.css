@@ -1,0 +1,19 @@
+.pic{
+    height:200px;
+    width:300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.listsnames(body) {
+    text-align: center;
+    color:darkblue;
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+.listsnames(menu) {
+    
+}
